@@ -1,0 +1,4 @@
+nomes = ["isaura","luiz","beiçola","evaldo","vange"]
+print (nomes[2])
+nomes[2] = "guilherme" #estava beiçola
+print (nomes[2])
